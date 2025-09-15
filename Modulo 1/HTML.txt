@@ -1,0 +1,334 @@
+Códigos:
+
+03/02/2025 (SEGUNDA) :)
+doc - ABREVIA OS CÓDIGOS HTML
+h1 - Título PRINCIPAL
+p1 - Parágrafo
+hr - L
+
+11/02/2025 (TERÇA) :|
+<br> - quebra de linha 
+
+12/02/2025 (QUARTA) :)
+&#x - Código pra colocar Emojis (Pra colocar emojis tem que ter o código do emoji)
+
+24/02/2025 (Segunda) :)
+img - Colocar Imagens
+
+11/03/2025 (Terça) :|
+link:favicon = icone pra site
+
+12/03/2025 (Quarta) :)
+Hierarquia de Títulos = h1, h2, h3, h4
+
+13/03/2025 (Quinta) >:(
+address - endereço
+
+14/03/2025 (Sexta) :))
+<b> ou <strong> - Negrito dentro do parágrafo
+Crtl + Shift + P = Abreviar
+<i> ou <em> - Itálico
+
+17/03/2025 (Segunda) :)
+mark - marcatexto
+Colocar mark em Style mark { backgroundcolor) - pra marcar todos os marks
+big e small - pra deixar grande ou pequeno palavra
+del - linha por cima
+ins - sublinhar
+sup - em cima
+sub - em baixo
+
+18/03/2025 (Terça) :)
+code - frase fica meio pequna
+pre - toda a linha fica igual no navegador
+q - aspas citação
+blockquoto - citação
+blockquote cite= - citação de um determinado lugar
+abbr - significa da sigla
+bdo - texto invertido
+
+20/03/2025 (Quinta) :)
+ol - listas ordenadas
+li - dentro de ol pra fazer lista
+type="1" start="5050" - pra colocar dentro de OL
+ul - não ordenadas
+
+24/03/2025 (Segunda) 👍 
+ol type start"" - começar em determinado ponto
+fazer uma OL dentro de uma LI
+dl
+dt Assunto dt
+dd explicaçao do assunto dd
+
+25/03/2025 (Terça) :)
+Envelopar A = faz links externos
+target="_blank" rel="external" - Dentro do link pra abrir nova aba em link externo
+
+26/03/2025 (Quarta) 👍
+Crt + SPACO = Selecionar Abas
+rel="nofollow
+../ = Voltar aba na pasta
+*Fazer curso de LINUX
+
+31/03/2025 (Segunda) :)
+type"application/zip = baixar ZIP
+colocar download="" pra baixar
+
+04/04/2025 (Sexta) :))
+picture
+source media type = pra imagem mudar (Flexibilidade
+picture
+
+07/04/2025 (Segunda) :)
+audio src"" controls autoplay = Tocar audio 
+<audio preload="auto" autoplay controls>
+        <source src="midia/oceuemeulugar.mp3" type="audio/mp3">
+        <source src="midia/oceuemeulugar.ogg" type="audio/ogg">
+        <source src="midia/oceuemeulugar.wav" type="audio/wav">
+        <p>infelizmente seu navegador nao pega</p>
+      </audio>
+
+10/04/2025 (Quinta) :)
+
+  <video width="300" poster="Imagens/Raja Club Athletic.png" controls>
+        <source src="12560036 1080 1920 60Fps.mp4" type="video/mp4">	= COLOCAR VIDEOS
+        <source src="12560036 1080 1920 60Fps.webm" type="video/webm">	(POSTER E A THUMB DO VIDEO)
+        <p>Seu Navegador nao tem compatibilidade com esse video</p>
+    </video>
+
+14/04/2025 (Segunda) :)
+Compartilhar, Incorporar = Colocar video do Youtube
+
+16/04/2025 (Quarta) :)
+Lorem - Encher da abobrinhakk so pra faz d conta
+<body style="background-color: darkcyan;"> - colocar cor no CORPO do site
+<h1 style="color: blue;">Capitulo 1</h1> - colocar cor no H1
+style="text-align: justify;" = Deixar alinhado 
+font-size: 20px; = tamanho
+
+22/04/2025 (Terça) :)) * Amanha nao tem aula
+ <Style>
+        body{
+            background-color: darkcyan;
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 20px;
+        }
+        h1{
+            color: blue;
+        }
+        h2{
+            color: violet;
+        }
+        p{
+            color: blue;
+            text-align: justify;
+        }
+    </Style>
+
+text-align: justify; - deixar ALINHADO
+
+24/04/2025 (Quinta) :)
+a - link
+ <link rel="stylesheet" href="style.css"> - Criar Style Css
+
+					MODULO 02
+
+30/04/2025 (Quarta) :)👍
+style="background-color: blue; color:white - Fundo texto e cor do H2
+
+06/05/2025 (Terça) :)
+Cores Primárias:
+Vermelho, Azul, Amarelo.
+Cores Secundárias:
+Verde (azul + amarelo), Laranja (vermelho + amarelo), Roxo (vermelho + azul).
+Cores Terciárias:
+Vermelho-arroxeado (vermelho + roxo)
+Vermelho-alaranjado (vermelho + laranja)
+Amarelo-esverdeado (amarelo + verde)
+Amarelo-alaranjado (amarelo + laranja)
+Azul-esverdeado (azul + verde)
+Azul-roxeado (azul + roxo)
+
+Cores Quentes:
+Vermelho Laranja: Amarelo:
+Cores Frias:
+Azul Verde Violeta
+
+*Cores Complementares
+*Cores Analogas
+*Monocromia
+
+07/05/2025 (Quarta) 👍
+Adobe Color
+Paletton
+
+08/05/2025 (Quinta) 👍
+ColorZilla - Extensao pra pegar cores no google
+coolors
+
+09/05/2025 (Sexta) :(👍
+background-image: linear-gradient(to right, white, darkcyan); - Cor GRADIENTE
+ * {
+            height: 100%;   - 100% DA IMAGEM (sem aquelas quebras)
+        }
+ background-attachment: fixed; - FIXAR DEGRADE
+
+20/05/2025 (Terça) 👍
+@charset "UTF-8"; - Colocar em CSS pra n ter problemas
+body{
+    text-align: justify; - 	COLOCAR PRA AJUSTAR (EM CSS)
+
+}
+
+box-shadow - fundozinho preto
+
+28/05/2025 (Quarta) :)
+1em = geralmente 16 px
+
+10/06/2025 (Terça) :)
+font-size: 1em ;
+font-weight: bolder;
+font-style: italic;
+text-decoration: underline;
+
+font: italic bolder 3em 'Work Sans' , sans-serif;
+(font-style -> font-weight -> font-size -> font family)
+
+11/06/2025 (Quarta) :)
+Google Fonts - Fontes
+
+12/06/2025 (Quinta) :)
+sites pra pegar fontes - DAFONT
+ @font-face {
+            font-family: 'fly';
+            src: url(flyeaglesfly.otf) format('opentype'), url('flyeaglesfly.ttf') format('truetype') - usar fontes baixadas
+
+25/06/2025 (Quinta) :)
+h2{
+            text-align: right; (TEXT ALIGN: ALINHAR PRA ESQUERDA, DIREITA, ETC)
+        }
+
+text-align: justify; - ALINHAR
+
+30/06/2025 (Segunda) :)
+@charset "UTF8";
+
+body {
+    background-color: aqua;
+    font-family: 'Courier New', Courier, monospace; - COLOCAR FONTE, COR ETC (CSS)
+}
+h1 {
+    color: ;aqua
+}
+
+h2 {
+    color:green
+}
+
+<h1 id="principal">Criando sites com HTML</h1> - ID E PRA IDENFITCAR. E DPS E EM CSS COLOCAR h1#principal
+
+em HTMl é id = em CSS e #
+em HTML e class = em CSS e .
+
+30/07/2025 (Quarta) :))
+height: 200px;	- ALTURA LARGURA
+width: 200px;
+border: 1px solid black; - BORDA
+display: inline-block; -  TUDO NA MESMA LINHA (RETA)
+   div#d1 {
+            background-color: aqua;
+        }
+
+<div id="d1">01</div>
+    <div id="d2">02</div>
+    <div id="d3">03</div>
+
+div:hover {
+            background-color: aqua;  - PRA MUDAR DE COR QUANDO PASSA O MOUSE
+        }
+
+31/07/2025 (Quinta) :)
+a:visited {
+            color: red;				- UM COR APARECE QUANDO MOUSE APARECER EM CIMA
+
+        }
+
+        a:hover{
+            text-decoration: underline;
+            color: black;
+        }
+________________
+target="_blank" - PRA QUANDO CLICAR NAO FECHAR A ABA
+Seletores Personalizados
+# = id
+. = class
+: = pseudo-class
+:: = pseudo-element
+> = clidren
+
+06/08/2025 :))
+padding -  distância entre o conteúdo do elemento e sua borda
+outline - refere-se a uma linha que é desenhada ao redor de um elemento, fora da borda, para destacá-lo
+
+08/08/2025 :)
+border: 10px solid darkcyan; - pra simplificar
+
+12/08/2025 :)
+border-radius: 20px 10px 10px 10px; ou border-radius: 10px 10px;  - borda circular
+
+14/08/2025 :)
+<style>
+        h1 {
+            text-align: center; /* Centraliza o texto */
+        }
+    </style>
+
+
+25/08/2025 :)
+:root {
+	--cor0: #askdas (so um exemplo msm)
+	--cor1: #23123123
+
+	--fonte-tal: Arial, Verdana, blablabla...
+body {
+background color: var(--cor0);
+		
+26/08/2025
+window resizer - ver como fica a resoluçao em celular, pc, e tals
+
+            min-height: 320px;	- LARGURA MAXIMA E LARGURA MINIMA
+            max-width: 800px;
+
+<picture>
+                <source media="(max-width: 800px)"  srcset="imagens/irina-blok-pq.jpg">	- A IMG MUDA EM CELULARES E TALS
+                <img src="imagens/irina-blok-pq.jpg" alt=""></picture>
+
+27/08/2025 :)
+text-align: center; - alinhar
+
+27/08/2025 (Quarta) :)
+background-image: linear-gradient - cor misturada sla
+p {
+    margin: 15px 0px; - dar uma separadinha
+}
+
+text-indent: 30px; - da um rucou no começo do P
+line-height: 2em; - separada entre as letras
+
+main strong {
+    color: var(--cor1);
+    font-weight: bold;
+    background-color: var(--cor1);		- TUDO QUE FOR STRONG ter isso ai
+    padding: 2px 6px;
+
+background-image: linear-gradient(to right, var(--cor1), transparent); - FUNDO DIFERENCIADO!!!
+}
+
+
+28/08/2025 (Quinta) :)
+aside >  ul {
+list-style-position: inside; - bolinha das listas fica pra dentro
+columns: 2; - Colunas
+list-style-type: '/2713' ;
+}
+

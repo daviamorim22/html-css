@@ -1,0 +1,29 @@
+@charset "UTF8";
+
+body {
+    background-color: aqua;
+    font-family: 'Courier New', Courier, monospace;
+}
+h1 {
+    color: ;aqua
+}
+
+h1#principal {
+    text-align: center;
+}
+
+h2 {
+    color:green
+}
+
+.basico {
+    color: green;
+}
+
+.intermediario {
+    color: aqua;
+}
+
+.avançado {
+    color: beige;
+}
