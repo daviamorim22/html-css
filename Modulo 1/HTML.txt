@@ -340,3 +340,5 @@ background-position - definir a posição exata de uma imagem de fundo dentro de
 background-size - controlar o tamanho de uma imagem de fundo em um elemento HTML
 height: 98vh define a altura de um elemento para 98% da altura total da viewport (janela de visualização) do navegador
 
+20/10/2025 (Segunda) :) 5:43
+background-size: cover; - Serve para redimensionar a imagem de fundo de um elemento HTML para que ela cubra todo o seu espaço disponível, preservando a proporção original da imagem
