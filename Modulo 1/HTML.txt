@@ -332,3 +332,11 @@ columns: 2; - Colunas
 list-style-type: '/2713' ;
 }
 
+09/10/2025 (Quinta) :)
+margin: 10px - é o espaço externo que fica ao redor de um elemento, separando-o de outros elementos na página
+class - agrupar e identificar um ou mais elementos que possuem características em comum
+id - é um atributo que fornece um identificador único a um elemento, garantindo que ele seja exclusivo dentro de um documento web
+background-position - definir a posição exata de uma imagem de fundo dentro de um elemento HTML
+background-size - controlar o tamanho de uma imagem de fundo em um elemento HTML
+height: 98vh define a altura de um elemento para 98% da altura total da viewport (janela de visualização) do navegador
+
