@@ -342,3 +342,6 @@ height: 98vh define a altura de um elemento para 98% da altura total da viewport
 
 20/10/2025 (Segunda) :) 5:43
 background-size: cover; - Serve para redimensionar a imagem de fundo de um elemento HTML para que ela cubra todo o seu espaço disponível, preservando a proporção original da imagem
+
+20/10/2025 (Segunda) :) 15:00
+background-attachment: fixed; - serve para fixar a imagem de fundo em relação à janela de visualização (viewport), fazendo com que o conteúdo da página role por cima dela, mas a imagem de fundo permaneça estática na tela
