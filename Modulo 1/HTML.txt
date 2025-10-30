@@ -345,3 +345,8 @@ background-size: cover; - Serve para redimensionar a imagem de fundo de um eleme
 
 20/10/2025 (Segunda) :) 15:00
 background-attachment: fixed; - serve para fixar a imagem de fundo em relação à janela de visualização (viewport), fazendo com que o conteúdo da página role por cima dela, mas a imagem de fundo permaneça estática na tela
+
+21/10/2025 (Terça) :) 5:32
+position: relative posiciona um elemento em relação à sua posição original no fluxo do documento, permitindo deslocamentos sutis com top, right, bottom, left. Já position: absolute remove o elemento do fluxo normal e o posiciona em relação ao seu primeiro ancestral posicionado (ou à janela do navegador se nenhum ancestral for posicionado), sendo útil para sobrepor elementos ou criar layouts mais complexos como tooltips e pop-ups
+
+TRANSFORM: TRANSLATE - é usada para mover um elemento na tela, tanto na horizontal (x) quanto na vertical (y). 
