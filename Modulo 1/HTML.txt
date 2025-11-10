@@ -350,3 +350,7 @@ background-attachment: fixed; - serve para fixar a imagem de fundo em relação 
 position: relative posiciona um elemento em relação à sua posição original no fluxo do documento, permitindo deslocamentos sutis com top, right, bottom, left. Já position: absolute remove o elemento do fluxo normal e o posiciona em relação ao seu primeiro ancestral posicionado (ou à janela do navegador se nenhum ancestral for posicionado), sendo útil para sobrepor elementos ou criar layouts mais complexos como tooltips e pop-ups
 
 TRANSFORM: TRANSLATE - é usada para mover um elemento na tela, tanto na horizontal (x) quanto na vertical (y). 
+
+10/11/2025 (Segunda) :) 5:28
+
+footer: definir o rodapé de uma página ou de uma seção de conteúdo, contendo informações como direitos autorais, dados de contato, links de navegação para o mapa do site, redes sociais e documentos relacionados.
