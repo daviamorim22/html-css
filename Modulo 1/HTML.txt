@@ -360,3 +360,7 @@ Section: agrupar conteúdo relacionado em uma página web, criando seções tem�
 <br> :  inserir uma quebra de linha em um texto
 
 @charset "UTF-8"; - Colocar SEMPRE em CSS (definir a codificação de caracteres do arquivo, garantindo que caracteres especiais (como acentos, símbolos e letras de outros idiomas) sejam exibidos corretamente)
+
+17/11/2025 (Segunda) :(👍
+
+(CSS) font-variant: small-caps; - serve para converter todas as letras minúsculas de um texto em maiúsculas, mas em um tamanho menor do que as maiúsculas originais
