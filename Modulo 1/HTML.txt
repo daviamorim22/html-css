@@ -354,3 +354,9 @@ TRANSFORM: TRANSLATE - é usada para mover um elemento na tela, tanto na horizon
 10/11/2025 (Segunda) :) 5:28
 
 footer: definir o rodapé de uma página ou de uma seção de conteúdo, contendo informações como direitos autorais, dados de contato, links de navegação para o mapa do site, redes sociais e documentos relacionados.
+
+Section: agrupar conteúdo relacionado em uma página web, criando seções temáticas que ajudam a organizar o código e melhorar a semântica
+
+<br> :  inserir uma quebra de linha em um texto
+
+@charset "UTF-8"; - Colocar SEMPRE em CSS (definir a codificação de caracteres do arquivo, garantindo que caracteres especiais (como acentos, símbolos e letras de outros idiomas) sejam exibidos corretamente)
