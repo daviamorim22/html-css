@@ -382,3 +382,33 @@ border-collapse: collapse;
 07/01/2026 (Quarta) 👍
 vertical-align
 no HTML (CSS) serve para alinhar verticalmente elementos em linha (como textos e imagens) dentro da linha em que estão, ou para posicionar o conteúdo dentro das células de tabelas (<td>), controlando se fica no topo, centro ou fundo, melhorando o layout visual e a legibilidade. 
+
+08/01/2026 (Quinta) :( 👍
+colspan ou rowspan="2" = ocupar 2 colunas na TABELA
+Caption = usada para adicionar um título ou descrição concisa a uma tabela
+scope="row" - é utilizado em tabelas HTML, especificamente no elemento <th> (célula de cabeçalho da tabela), para especificar que essa célula serve como cabeçalho para todas as células de dados subsequentes em sua linha (horizontalmente). 
+
+
+scope="col" -  é um atributo HTML usado em tabelas para definir o escopo de uma célula de cabeçalho (<th>). Sua função principal é melhorar a acessibilidade e a semântica da tabela, indicando a relação entre a célula de cabeçalho e as células de dados correspondentes. 
+
+12/01/2026 (Segunda) :( 👍
+tbody tr:nth-child(2n) é usado para selecionar todas as linhas pares (<tr>) dentro de um elemento <tbody> em uma tabela HTML. 
+
+thead > tr > th {
+            position: sticky;	- A CABEÇALHO NA TABELA SEGUE ENQUANTO ROLA NO SITE
+            top: -1px;
+
+15/01/2026 (Quinta) :))
+"Grupos" Escopos
+Scope col - linha de baixo ⬇
+Scope Row - linha do lado ➡
+
+16/01/2026 (Sexta) :👍
+colgroup>
+            <col class="cnome">			- SELECIONAR COLUNA
+            <col class="csexo">
+            <col class="cidade" span="2"> (Selecionar 2 colunas)
+        </colgroup>
+
+19/01/2026 :)
+ overflow-x: auto; -  Serve para adicionar uma barra de rolagem horizontal (scroll) somente quando o conteúdo de um elemento (como uma <div> ou <table>) for mais largo do que o espaço disponível, permitindo ao usuário rolar para ver o conteúdo que "transbordou" para a direita ou esquerda, sem quebrar o layout da página.
