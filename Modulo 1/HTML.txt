@@ -412,3 +412,11 @@ colgroup>
 
 19/01/2026 :)
  overflow-x: auto; -  Serve para adicionar uma barra de rolagem horizontal (scroll) somente quando o conteúdo de um elemento (como uma <div> ou <table>) for mais largo do que o espaço disponível, permitindo ao usuário rolar para ver o conteúdo que "transbordou" para a direita ou esquerda, sem quebrar o layout da página.
+
+20/01/2026 👍
+iframe
+
+21/01/2026 👍
+Colocar dentro do IFRAME um link (a) pra navegadores que n sao compativeis
+tamanho padrao de um IFRAME = 300x150
+scolling="no" = pra rolagem
