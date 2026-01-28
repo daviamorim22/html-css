@@ -420,3 +420,6 @@ iframe
 Colocar dentro do IFRAME um link (a) pra navegadores que n sao compativeis
 tamanho padrao de um IFRAME = 300x150
 scolling="no" = pra rolagem
+
+28/01/2026 :)
+SRCDOC em um <iframe> serve para definir diretamente o conteúdo HTML (código) que será exibido dentro do frame, em vez de carregar um arquivo externo através do atributo 
