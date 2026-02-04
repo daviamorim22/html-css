@@ -423,3 +423,8 @@ scolling="no" = pra rolagem
 
 28/01/2026 :)
 SRCDOC em um <iframe> serve para definir diretamente o conteúdo HTML (código) que será exibido dentro do frame, em vez de carregar um arquivo externo através do atributo 
+
+02/02/2026 :)
+sandbox="sandbox" e referrerpolicy="no-referer" - dentro do IFRAME para aumentar a SEGURANÇA
+
+sandbox="allow-same-origin allow-forms allow-scripts" - SEGURANÇA, mas permitindo algumas coisas
