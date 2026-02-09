@@ -428,3 +428,59 @@ SRCDOC em um <iframe> serve para definir diretamente o conteúdo HTML (código) 
 sandbox="sandbox" e referrerpolicy="no-referer" - dentro do IFRAME para aumentar a SEGURANÇA
 
 sandbox="allow-same-origin allow-forms allow-scripts" - SEGURANÇA, mas permitindo algumas coisas
+
+04/02/2026 :)
+background-size: cover; - COBRIR A TELA INTEIRA (PODE SER IMAGEM E TALS)
+
+05/02/2026 :)
+ border-radius: 50% - transformar uma imagem quadrada em circulo (Exemplo)
+
+HOVER no CSS serve para alterar o estilo de um elemento quando o usuário posiciona o cursor do mouse sobre ele, criando interatividade
+
+ transform: translate (x, y) no CSS serve para reposicionar um elemento na página, movendo-o horizontalmente (eixo X) e/ou verticalmente (eixo Y) em relação à sua posição original
+
+box-shadow serve para adicionar efeitos de sombra ao redor de elementos HTML
+
+transition: transform 500ms serve para criar uma animação suave de meio segundo (\(500\text{ms}\)) sempre que a propriedade transform (como rotação, escala ou movimentação) de um elemento for alterada, evitando mudanças bruscas. Ela melhora a interatividade, deixando efeitos de hover ou cliques mais fluidos. 
+
+06/02/2026 :)
+::-webkit-scrollbar {
+        width: 0px;		- ESCONDER A ROLAGEM (SCROLLBAR)
+        height: 0px;
+     }
+
+
+
+
+
+     * {
+        margin: 0px;
+        padding: 0px;
+        font-family: Arial, Helvetica, sans-serif;
+        
+     }
+     
+     ::-webkit-scrollbar {
+        width: 0px;
+        height: 0px;
+     }
+
+     img {
+          width: 100vh;
+        background-size: cover;
+        background-size: 100% auto;
+        }
+
+        a {
+            display: block;
+            background-color: darkred;
+            padding: 20px;
+            text-align: center;
+            font-weight: bolder;
+            text-decoration: none;
+        }
+
+a:hover {
+    background-color: red;
+}
+
