@@ -504,9 +504,9 @@ POST -  enviar dados ao servidor de forma segura e oculta no corpo da requisiç�
 					INPUTS (FORM)
 <input> do tipo "password" são uma maneira do usuário digitar senhas com segurança.
 
-O input type="submit" no HTML cria um botão utilizado especificamente para enviar os dados de um formulário (<form>) para um servidor.
+O input type="submit" no HTML cria um botão utilizado especificamente para enviar os dados de um formulário (<form>) para um servidor. (ENVIAR)
 
-O <input type="reset"> no HTML é um botão utilizado em formulários para restaurar todos os campos aos seus valores padrão (default) originais.
+O <input type="reset"> no HTML é um botão utilizado em formulários para restaurar todos os campos aos seus valores padrão (default) originais. (LIMPAR)
 
 O atributo required no HTML é uma instrução nativa usada para tornar um campo de formulário (<input>)
 
@@ -514,6 +514,12 @@ Os atributos HTML minlength e maxlength servem para definir restrições de tama
 
 size="10" em um elemento <input> HTML define a largura visível inicial do campo de texto, ajustando-a para comportar aproximadamente 10 caracteres.
 
-O atributo placeholder no HTML serve para exibir uma dica, exemplo ou instrução breve dentro de um campo de entrada
+O atributo 'placeholder' no HTML serve para exibir uma dica, exemplo ou instrução breve dentro de um campo de entrada
 
 <form autocomplete="off"> - serve para instruir o navegador a não preencher automaticamente os campos de um formulário com dados salvos anteriormente
+
+STEP = <input type="number" name="media" id="imdeia" tep="0.1">
+
+INPUT:MONTH = serve para criar um campo de formulário que permite ao usuário selecionar um mês e um ano específicos (ex: 03/2026), sem a necessidade de escolher um dia exato. 
+
+VALUE (DENTRO DO INPUT) define o valor inicial, pré-preenchido ou selecionado de um campo de formulário
