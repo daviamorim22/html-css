@@ -484,3 +484,36 @@ a:hover {
     background-color: red;
 }
 
+09/02/2026
+
+<input type="text"> no HTML serve para criar um campo de entrada de dados de linha única, permitindo que os usuários insiram textos simples, como nomes, e-mails ou termos de pesquisa, em formulários web
+				(AQUELAS CAXINHAS DE FORMULARIO)
+
+<input type="submit"> no HTML é um elemento utilizado para criar um botão dentro de um formulário (<form>) que, ao ser clicado, submete (envia) automaticamente todos os dados preenchidos nos campos para o servidor ou um script específico. 
+
+10/02/2026
+<form autocomplete="off"> - serve para instruir o navegador a não preencher automaticamente os campos de um formulário com dados salvos anteriormente
+
+
+Sempre usar </LABEL>! LABEL é uma "etiqueta" nos formularios (IMPORTANTE!!!) 
+GET - Para formularios dados nao sensiveis (Peso, tamanho, dados nao sensiveis)
+POST -  enviar dados ao servidor de forma segura e oculta no corpo da requisição HTTP (e não na URL)
+				method="post" 	method="get" (dentro de 'form')
+
+11/02/2026 (Quarta) :)
+					INPUTS (FORM)
+<input> do tipo "password" são uma maneira do usuário digitar senhas com segurança.
+
+O input type="submit" no HTML cria um botão utilizado especificamente para enviar os dados de um formulário (<form>) para um servidor.
+
+O <input type="reset"> no HTML é um botão utilizado em formulários para restaurar todos os campos aos seus valores padrão (default) originais.
+
+O atributo required no HTML é uma instrução nativa usada para tornar um campo de formulário (<input>)
+
+Os atributos HTML minlength e maxlength servem para definir restrições de tamanho (número de caracteres) em campos de entrada de formulários
+
+size="10" em um elemento <input> HTML define a largura visível inicial do campo de texto, ajustando-a para comportar aproximadamente 10 caracteres.
+
+O atributo placeholder no HTML serve para exibir uma dica, exemplo ou instrução breve dentro de um campo de entrada
+
+<form autocomplete="off"> - serve para instruir o navegador a não preencher automaticamente os campos de um formulário com dados salvos anteriormente
