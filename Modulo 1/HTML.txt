@@ -523,3 +523,26 @@ STEP = <input type="number" name="media" id="imdeia" tep="0.1">
 INPUT:MONTH = serve para criar um campo de formulário que permite ao usuário selecionar um mês e um ano específicos (ex: 03/2026), sem a necessidade de escolher um dia exato. 
 
 VALUE (DENTRO DO INPUT) define o valor inicial, pré-preenchido ou selecionado de um campo de formulário
+
+23/02/2026
+Estudar mais sobre RegEx
+<fieldset> serve para agrupar campos relacionados dentro de um formulário
+ <legend> definir um título ou rótulo para o conteúdo agrupado pelo elemento fieldset
+
+24/02/2026
+input type="checkbox" em HTML serve para criar caixas de seleção que permitem ao usuário marcar (ativar) ou desmarcar (desativar) uma ou mais opções independentes em um formulário.
+
+<br> quebra de linha
+
+Cheked opção específica estará pré-selecionada (marcada) quando a página carregar. 
+
+todo grupo de input:radio tem que ter o mesmo NAME
+
+02/03/2026
+Quando for utilizar controles de Envios de arquivos voce n pode usar o metodo "GET" - Guanabara (FORMULARIOS)
+
+input:color - Serve para criar um seletor visual de cores nativo no navegador, permitindo que o usuário escolha uma cor através de uma paleta visual
+
+input:range - cria um controle deslizante (slider) para selecionar um valor numérico dentro de um intervalo específico (mínimo e máximo
+
+input:file - serve para criar um campo de seleção que permite aos usuários fazerem o upload de arquivos do dispositivo
