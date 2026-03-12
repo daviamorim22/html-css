@@ -546,3 +546,9 @@ input:color - Serve para criar um seletor visual de cores nativo no navegador, p
 input:range - cria um controle deslizante (slider) para selecionar um valor numérico dentro de um intervalo específico (mínimo e máximo
 
 input:file - serve para criar um campo de seleção que permite aos usuários fazerem o upload de arquivos do dispositivo
+
+03/03/2026
+
+Select (FORM) - Listas de seleção dentro de um formulário
+<optgroup> serve para agrupar logicamente opções (<option>)
+textarea - utilizada para criar campos de formulário de múltiplas linhas, permitindo que os usuários insiram, editem ou enviem textos longos, como comentários, descrições, mensagens ou avaliações
