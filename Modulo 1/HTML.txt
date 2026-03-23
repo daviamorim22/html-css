@@ -552,3 +552,10 @@ input:file - serve para criar um campo de seleção que permite aos usuários fa
 Select (FORM) - Listas de seleção dentro de um formulário
 <optgroup> serve para agrupar logicamente opções (<option>)
 textarea - utilizada para criar campos de formulário de múltiplas linhas, permitindo que os usuários insiram, editem ou enviem textos longos, como comentários, descrições, mensagens ou avaliações
+
+12/03/2026
+
+media dentro da tag <link> no HTML serve para especificar quando um arquivo CSS externo deve ser aplicado, baseando-se no tipo de dispositivo (tela, impressão) ou características (largura, orientação)
+
+23/03/2026 - Segunda
+Media Queries é a mesma coisa que media type + Meida Features - Gustavo Guanabara
