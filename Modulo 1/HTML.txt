@@ -559,3 +559,7 @@ media dentro da tag <link> no HTML serve para especificar quando um arquivo CSS 
 
 23/03/2026 - Segunda
 Media Queries é a mesma coisa que media type + Meida Features - Gustavo Guanabara
+Media Queries é FUNDAMENTAL e MUITO IMPORTANTE!!!
+
+30/03/2026 - Segunda
+text-shadow no CSS3 adiciona sombras a textos, melhorando a legibilidade ou criando efeitos visuais
